@@ -63,7 +63,7 @@
 -  timeStamp 时间戳
 -  appId 公众号id
 -  nonceStr 随机字符串
--  signType 清明方式
+-  signType 签名方式
 -  sign 签名
 
 ::
